@@ -64,7 +64,8 @@ Berdasarkan hasil training, fitur paling berpengaruh adalah:
 
 Struktur pohon keputusan menunjukkan bagaimana model melakukan split berdasarkan diameter dan fitur lainnya untuk menentukan klasifikasi.
 
-![dt](https://github.com/user-attachments/assets/3b7638c4-6ed2-48eb-911a-183bea8d12b1)
+![dtt](https://github.com/user-attachments/assets/a7c36ff4-3162-4177-a326-9c6339ba969e)
+
 
 ---
 
